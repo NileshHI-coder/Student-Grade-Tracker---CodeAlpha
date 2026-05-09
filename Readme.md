@@ -46,15 +46,16 @@ CodeAlpha_StudentGradeTracker/
 Step 1: Compile the Program
 
 javac Student.java
+
 javac GradeTracker.java
 
 Step 2: Run the Program
+
 java GradeTracker
 
 
-### 
-Internship Task
+### Internship Task
 This project was developed for the CodeAlpha Java Programming Internship.
 
-Author
+### Author
 Nilesh Prajapati
