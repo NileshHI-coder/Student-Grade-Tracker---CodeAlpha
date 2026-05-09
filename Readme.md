@@ -45,7 +45,6 @@ CodeAlpha_StudentGradeTracker/
 
 Step 1: Compile the Program
 
-```bash
 javac Student.java
 javac GradeTracker.java
 
